@@ -12,7 +12,10 @@ public class CalculatorExecute {
         int substraction = c.subtraction(7,1);
         System.out.println("c.substraction(7,1) -> "+substraction);
 
-        System.out.println("\nESTO ES UN CAMBIO");
+        System.out.println("\nMetodologias Agiles\n\n");
+        System.out.println("\n*** Caceres Gabriel ***\n");
+        System.out.println("\n*** Tapia Alexis ***\n");
+        System.out.println("\n*** Yamberla Justin ***\n");
 
     }
 }
